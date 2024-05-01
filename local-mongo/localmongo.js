@@ -4,7 +4,7 @@ const { MongoClient } = require('mongodb');
 const uri = 'mongodb://localhost:27017';  //IF a differnt one REPLACE IT WITH YOURS
 
 // Database Name
-const dbName = 'CreatorFeatureDB';
+const dbName = 'CreatorFeatureDB';   //REPLACE IT WITH YOURS DB name
 
 async function main() {
     // Create a new MongoClient
