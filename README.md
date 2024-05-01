@@ -6,9 +6,11 @@ Familiarise yourself with
 Their usage and making their connection with your dev project.
 
 
-Coding projects has been attached in this repo for:
-•	Local MongoDB connection
-•	MongoDB Atlas connection, Inserting data and retrieval of data.
+**Coding projects** has been attached in this repo for:
+-	Local MongoDB connection
+-	MongoDB Atlas connection, Inserting data and retrieval of data.
 
 
 ![Game Play](img/mongo.png)
+
+CRUD implementation of MongoDB in MERN and Html+Css+Js will be uploaded soon
